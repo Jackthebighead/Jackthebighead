@@ -4,7 +4,6 @@
 
 <a href="https://github.com/Jackthebighead">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jackthebighead&theme=buefy&show_icons=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackthebighead&theme=buefy&layout=compact" />
 </a>
 
 <br/>
