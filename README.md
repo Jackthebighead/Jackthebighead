@@ -1,8 +1,6 @@
 <h2> Hi there!  👋   I'm Jack, and bighead is my nickname.</h2>
 <p> I’m currently a postgraduate student at CSE Dept., HKUST. My research interests mainly lie in Machine Leanring and Natural Language Processing.</p>
 <p> Also, I'm now an Algorithm Engineer intern at Kuaishou Company, working on NLP related tasks such as Text Similarity Modeling, Text Paraphrasing, Text Summarization, and Text Style Transfer, etc.</p>
-</h5>
-<br/>
 <p align='center'>
 <a href="https://github.com/Jackthebighead">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jackthebighead&theme=buefy&show_icons=true" />
