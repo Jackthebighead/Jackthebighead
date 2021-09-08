@@ -1,14 +1,13 @@
-<h2> Hi there!👋  I'm Jack, bighead is my nickname.</h2>
+<h2> Hi there!  👋   I'm Jack, and bighead is my nickname.</h2>
 <p> I’m currently a postgraduate student at CSE Dept., HKUST. My research interests mainly lie in Machine Leanring and Natural Language Processing.</p>
-<p> Also, I'm now a Algorithm Engineer intern at Kuaishou Company, working on NLP related tasks such as Text Similarity Modeling, Text Paraphrasing, Text Summarization, and Text Style Transfer, etc.</p>
+<p> Also, I'm now an Algorithm Engineer intern at Kuaishou Company, working on NLP related tasks such as Text Similarity Modeling, Text Paraphrasing, Text Summarization, and Text Style Transfer, etc.</p>
 </h5>
-
-<a href="https://github.com/Jackthebighead">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jackthebighead&theme=buefy&show_icons=true"/>
-</a>
-
 <br/>
-
+<p align='center'>
+<a href="https://github.com/Jackthebighead">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jackthebighead&theme=buefy&show_icons=true" />
+</a>
+</p>
 <h4> 🤝🏻 &nbsp; Connect with Me via:</h4>
 <p align="center">
 <a href="mailto:yanzheyuan23@sina.com"><img alt="Email" src="https://img.shields.io/badge/Email-yanzheyuan23@sina.com-blue?style=flat-square&logo=gmail"></a>
